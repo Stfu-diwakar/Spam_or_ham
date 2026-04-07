@@ -6,7 +6,7 @@ A modern Machine Learning web app that detects whether a message is **Spam 🚫*
 
 ## 🌐 Live Demo
 
-🔗 **Website:** *https://spam-dwkr.streamlit.app/*
+🔗 **Website:** *https://spamorham-d.streamlit.app/*
 
 ---
 
